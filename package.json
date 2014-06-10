@@ -1,0 +1,25 @@
+{
+  "name": "commander.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fibjs-core/commander.js.git"
+  },
+  "dependencies": {
+    "trigger": "https://github.com/fibjs-core/trigger.git"
+  },
+  "keywords": [
+    "command",
+    "fibjs",
+    "js"
+  ],
+  "author": "Baoz Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fibjs-core/commander.js/issues"
+  },
+  "homepage": "https://github.com/fibjs-core/commander.js"
+}
